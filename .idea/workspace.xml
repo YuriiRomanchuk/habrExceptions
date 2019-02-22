@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e66b4b22-2987-4920-87cf-0ad752bfb59f" name="Default Changelist" comment="" />
+    <list default="true" id="e66b4b22-2987-4920-87cf-0ad752bfb59f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,16 +22,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/HabrExceptions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="604">
-              <caret line="261" column="31" lean-forward="true" selection-start-line="261" selection-start-column="31" selection-end-line="261" selection-end-column="31" />
+            <state relative-caret-position="226">
+              <caret line="240" column="39" selection-start-line="240" selection-start-column="30" selection-end-line="240" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -40,6 +47,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -53,11 +63,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="79" />
-    <option name="y" value="60" />
-    <option name="width" value="1380" />
+    <option name="x" value="260" />
+    <option name="y" value="57" />
+    <option name="width" value="1390" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -76,12 +87,6 @@
               <item name="Exceptions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Exceptions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exceptions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -90,7 +95,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550836490607" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550836665958" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -119,7 +124,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="32" width="1920" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" x="0" y="148" width="1836" height="566" id="Project" order="0" sideWeight="0.49814814" visible="true" weight="0.17006437" />
       <window_info id="Structure" order="1" sideWeight="0.50185186" side_tool="true" weight="0.4114807" />
@@ -135,7 +139,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49839056" weight="0.39933258" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946353" weight="0.3448276" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946353" visible="true" weight="0.3448276" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50160944" side_tool="true" weight="0.39933258" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49946353" weight="0.32925472" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32925472" />
@@ -167,13 +171,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/HabrExceptions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="261" column="31" lean-forward="true" selection-start-line="261" selection-start-column="31" selection-end-line="261" selection-end-column="31" />
+        <state relative-caret-position="226">
+          <caret line="240" column="39" selection-start-line="240" selection-start-column="30" selection-end-line="240" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
